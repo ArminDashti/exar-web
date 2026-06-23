@@ -1,0 +1,6 @@
+.git
+.cursor
+node_modules
+data
+*.db
+New folder
